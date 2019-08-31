@@ -27,12 +27,11 @@ img {
     border: 5px solid #9BACA6;
 }
 a img{
-  
-  border: 5px solid #D0CECF;
+    border: 5px solid #D0CECF;
+    transition: 0.3s ease all;
 }
 
 a:hover img{
-  
   border: 5px solid #757E7B;
 }
 h1{
