@@ -30,6 +30,11 @@ a img{
   
   border: 5px solid #D0CECF;
 }
+
+a:hover img{
+  
+  border: 5px solid #757E7B;
+}
 h1{
   font-size: 80px;
   color:#9BACA6;
